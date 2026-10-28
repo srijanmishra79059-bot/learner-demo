@@ -1,1 +1,1 @@
-Device alert: offline
+Device is offline. Sending Slack alert
