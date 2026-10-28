@@ -1,1 +1,1 @@
-Device status: unknown
+Device status: offline - send Slack alert
