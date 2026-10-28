@@ -1,1 +1,51 @@
+<<<<<<< HEAD
 Device status: offline - send Slack alert
+=======
+Device status: offline - send email
+>>>>>>> feature/critical-alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
